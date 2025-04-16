@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlowLogo.png" alt="TensorFlow" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo_icon.svg" alt="PyTorch" height="60"/>
+  <img src="https://raw.githubusercontent.com/tensorflow/docs/master/site/en/images/tf_logo_social.png" alt="TensorFlow" height="60"/>
+  <img src="https://raw.githubusercontent.com/pytorch/hub/master/images/logo.png" alt="PyTorch" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="60"/>
 </p>
